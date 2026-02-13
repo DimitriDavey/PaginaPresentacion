@@ -1,0 +1,16 @@
+
+ul, li{
+    display: inline;
+    margin-right: 5px;
+}
+
+.barra{
+    background-color: #4E5166;
+    color: white;
+    width: 100%;
+    min-width: 450px;
+    height: 25px;
+    min-height: 30px;
+    align-content: center;
+    border-radius: solid #F5FBEF 2px;
+}

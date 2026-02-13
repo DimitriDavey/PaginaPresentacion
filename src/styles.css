@@ -1,4 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     background-color: #F5FBEF;
+<<<<<<< HEAD
 }
+=======
+}
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.pie {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+>>>>>>> ad23ca13514f4916e436fefbc2d57d24d9df1436
