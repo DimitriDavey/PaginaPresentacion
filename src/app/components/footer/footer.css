@@ -1,0 +1,7 @@
+.pie{
+  width: 100%;
+  padding: 1rem;
+  flex-direction: column;
+  background-color: #4E5166;
+  color: white;
+}
